@@ -52,14 +52,9 @@ education:
       university: Russell Sage College | Troy, NY
       time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Honors program graduate
+        - Presenter at the National Collegiate Honors Conference, Nov 2014
+        - Designed and conducted research in genetic taste preferences with Professor Eileen FitzPatrick
 
 experiences:
     - role: Bank teller
