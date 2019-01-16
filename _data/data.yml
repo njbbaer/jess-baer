@@ -58,17 +58,39 @@ education:
 
 experiences:
     - role: Bank Teller
-      time: July 2018 - Present
+      time: Jul 2018 - Present
       company: Rabobank, Santa Barbara
       details: |
 
     - role: Volunteer
-      time: June 2017 - August 2017
+      time: Jun 2017 - Aug 2017
       company: Food Bank of Santa Barbara County
       details: |
         - Transported and served meals for the Summer Feeding Program
         - Upheld specific standards for a government licenced nutrition assistance program
         - Organized nutrition activities for the children, including weekly Food Bank sponsored “blender-bike”
+
+    - role: Dietary Aide, The Pines at Heartwood — Troy, NY    
+      time: Jul 2018 - Present
+      company: Rabobank, Santa Barbara
+      details: |
+        - Maintained dietary standards as prescribed by the dietitian for residents of an assisted living facility
+        - Accommodated residents with diabetes, low salt diets, Coumadin-modified diets, and reduced jaw strength
+        - Followed food safety standards in regards to proper temperatures and storage of food
+
+    - role: Volunteer, YWCA of the Greater Capital Region — Troy, NY
+      time: Sep 2014 - Oct 2015
+      details: |
+        - Served meals to members of the Troy community & volunteered in the Food Pantry
+        - Helped organize and prepare community meals with the local food bank
+        - Made nutritional fliers on topics such as low budget healthy recipes and popular nutrition topics
+        - Lead nutrition based discussions with residents
+      
+    - role: Volunteer, Head Chef, RPI-Sage Hillel — Troy, NY
+      time: Jan 2014 - Apr 2015
+      details: |
+        - Lead student cooks in preparation of meals for weekly Shabbat dinners
+        - Gained experience cooking for restrictive diets including kosher, vegetarian, and gluten free
 
 projects:
     title: Projects
