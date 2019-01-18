@@ -10,7 +10,7 @@ sidebar:
     name: Jessica Baer
     tagline: Nutrition graduate
     avatar: jess-100x100.jpg
-    
+
     # Sidebar links
     email: jessicasbaer@gmail.com
     linkedin: jessica-baer-39b1a1129
@@ -36,15 +36,16 @@ sidebar:
         link:
 
 career-profile:
-    title: About Me
+    title: About Jessica
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        Jessica Baer is a nutrition graduate with a passion for community education and health research.
 
-      Second paragraph if required.
+        She graduated with a degree in nutrition from her university's honors program, and received special distinction for conducting academic research.
+        She has volunteered her time in the community at the YWCA and food bank, and taught herself Spanish to better communicate with and learn about other cultures.
+        She currently lives in Santa Barbara, California with her husband and dog, who love and support her tremendously.
+
+        She is looking to begin a dietetic internship this year to pursue her goal of becoming a registered dietitian.
+        She hopes to use her education to focus on nutrition counseling and weight management.
 
 education:
     - degree: B.S. in Nutrition Sciences
@@ -69,9 +70,9 @@ experiences:
         - Upheld specific standards for a government licenced nutrition assistance program
         - Organized nutrition activities for the children, including weekly Food Bank sponsored “blender-bike”
 
-    - role: Dietary Aide    
+    - role: Dietary Aide
       time: Jan 2016 - May 2017
-      company: The Pines at Heartwood — Troy, NY 
+      company: The Pines at Heartwood — Troy, NY
       details: |
         - Maintained dietary standards as prescribed by the dietitian for residents of an assisted living facility
         - Accommodated residents with diabetes, low salt diets, Coumadin-modified diets, and reduced jaw strength
@@ -85,7 +86,7 @@ experiences:
         - Helped organize and prepare community meals with the local food bank
         - Made nutritional fliers on topics such as low budget healthy recipes and popular nutrition topics
         - Lead nutrition based discussions with residents
-      
+
     - role: Head Chef Volunteer
       time: Jan 2014 - Apr 2015
       company: RPI-Sage Hillel — Troy, NY
