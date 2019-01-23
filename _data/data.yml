@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jessicasbaer@gmail.com
-    linkedin: jessica-baer-39b1a1129
+    linkedin: jessica-s-baer
 
     languages:
       - idiom: English
@@ -61,6 +61,17 @@ experiences:
       time: Jul 2018 - Present
       company: Rabobank — Santa Barbara, CA
       details: |
+        - Worked as a bilingual bank teller, helping clients with financial transactions
+        - Demonstrated critical thinking to detect fraud and discretion on sensitive financial matters
+        - Excelled in a team based and goal driven work environment
+
+    - role: Dietary Aide
+      time: Oct 2017 - March 2018
+      company: Fountain Valley Regional Hospital
+      details: |
+        - Worked with nutrition therapy diets including renal, diabetic, neutropenic, hepatic, and modified texture
+        - Gained experience in a clinical setting and interacting with medical staff
+        - Met the needs of patients from a variety of cultures and English language ability
 
     - role: Volunteer
       time: Jun 2017 - Aug 2017
@@ -82,29 +93,29 @@ experiences:
       time: Sep 2014 - Oct 2015
       company: YWCA of the Greater Capital Region — Troy, NY
       details: |
-        - Served meals to members of the Troy community & volunteered in the Food Pantry
-        - Helped organize and prepare community meals with the local food bank
-        - Made nutritional fliers on topics such as low budget healthy recipes and popular nutrition topics
-        - Lead nutrition based discussions with residents
+        - Helped coordinate, prepare, and serve community meals with the Troy food bank
+        - Made nutritional fliers on subjects such as low budget healthy recipes and popular nutrition topics
+        - Lead nutrition based discussions with community residents
 
     - role: Head Chef Volunteer
       time: Jan 2014 - Apr 2015
       company: RPI-Sage Hillel — Troy, NY
       details: |
-        - Lead student cooks in preparation of meals for weekly Shabbat dinners
+        - Directed student cooks in preparation of meals for weekly Shabbat dinners
         - Gained experience cooking for restrictive diets including kosher, vegetarian, and gluten free
 
 projects:
     title: Projects
-    intro: >
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
     assignments:
-      - title: lorem ipsum
+      - title: Academic research on genetic taste preference
         link: "#hook"
-        tagline: lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        tagline: |
+          Completed a research project in 2017 to examine a hypothesized relationship between bitter taste perception and preference to vegetables.
+          The research was advised by the head of Russell Sage College's Nutrition Department, Eileen FitzPatrick, and approved by the university's Institutional Review Board.
+          The results were presented at the university's annual Undergraduate Research Symposium.
+      - title: ServSafe Certified
+        tagline: |
+          Certified through 2020, to uphold food safety standards in an industrial food service environment.
 
 footer: >
     Built with <i class="fas fa-heart"></i> by her husband, <a href="https://github.com/njbbaer" target="_blank">Nate Baer</a><br>Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
