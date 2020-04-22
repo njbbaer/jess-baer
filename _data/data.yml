@@ -38,27 +38,48 @@ sidebar:
 career-profile:
     title: About Jessica
     summary: |
-        Jessica Baer is a nutrition graduate with a passion for community education and health research.
+        Jessica Baer is a nutrition graduate with a passion for community education, health research, and working with seniors.
 
         She graduated with a degree in nutrition from her university's honors program, and received special distinction for conducting academic research.
         She has volunteered her time in the community at the YWCA and food bank, and taught herself Spanish to better communicate with and learn about other cultures.
         She currently lives in Santa Barbara, California with her husband and dog, who love and support her tremendously.
 
-        She is looking to begin a dietetic internship this year to pursue her goal of becoming a registered dietitian.
+        She has recently completed her dietetic internship, and will become a registered dietion on completion of her exam.
         She hopes to use her education to focus on nutrition counseling and weight management.
 
 education:
+    - degree: Dietetic Internship
+      university: Wellness Workdays
+      time: Jul 2019 - April 2020
+      details: |
+        - 1200 hours of practical experience
+        - Five rotations in various areas of dietetics practice
+        - Pending dietitian registration on completion of exam
     - degree: B.S. in Nutrition Sciences
       university: Russell Sage College — Troy, NY
-      time: 2013 - 2017
+      time: Aug 2013 - May 2017
       details: |
         - Honors program graduate
         - Presenter at the National Collegiate Honors Conference, Nov 2014
         - Designed and conducted research in genetic taste preferences with Professor Eileen FitzPatrick
 
 experiences:
+    - role: Dietetic Intern
+      time: Jul 2019 - April 2020
+      company: Wellness Workdays Dietetic Internship
+      details: |
+        - Foodbank of Santa Barbara County
+          - Developed, promoted, and ran community health programs.
+        - University of California, Santa Barbara
+          - Promoted wellness of the Housing, Dining, and Auxiliary Enterprises employees, through the creation of health challenges, events, and written materials.
+        - Clinical — Lompoc Valley Medical Center (LVMC)
+          - Gained clinical nutrition experience educating patients and providing nutrition interventions in inpatient and outpatient settings.
+        - Food Service — LVMC
+          - Worked in a hospital food service environment. Created, organized, and led the production of a meal serving over two hundred people.
+        - Long Term Care — LVMC
+          - Gained experience in the long term care setting at the Comprehensive Care Center, assessing care plans to augment the recovery and status of residents and rehabilitation patients.
     - role: Bank Teller
-      time: Jul 2018 - Present
+      time: Jul 2018 - Jul 2019
       company: Rabobank — Santa Barbara, CA
       details: |
         - Worked as a bilingual bank teller, helping clients with financial transactions
@@ -108,14 +129,10 @@ projects:
     title: Projects
     assignments:
       - title: Academic research on genetic taste preference
-        link: "#hook"
         tagline: |
           Completed a research project in 2017 to examine a hypothesized relationship between bitter taste perception and preference to vegetables.
           The research was advised by the head of Russell Sage College's Nutrition Department, Eileen FitzPatrick, and approved by the university's Institutional Review Board.
           The results were presented at the university's annual Undergraduate Research Symposium.
-      - title: ServSafe Certified
-        tagline: |
-          Certified through 2020, to uphold food safety standards in an industrial food service environment.
 
 footer: >
     Built with <i class="fas fa-heart"></i> by her husband, <a href="https://github.com/njbbaer" target="_blank">Nate Baer</a><br>Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
