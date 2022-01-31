@@ -3,136 +3,148 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jessica Baer
-    tagline: Nutrition graduate
-    avatar: jess-100x100.jpg
+  # Profile information
+  name: Jessica Baer
+  tagline: Registered Dietitian
+  avatar: jess-100x100.jpg
 
-    # Sidebar links
-    email: jessicasbaer@gmail.com
-    linkedin: jessica-s-baer
+  # Sidebar links
+  email: jessicasbaer@gmail.com
+  linkedin: jessica-s-baer
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: Spanish
-        level: Conversationally fluent
+    - idiom: Spanish
+      level: Conversationally fluent
 
-    interests:
-      - item: Dog training
-        link:
+  interests:
+    - item: Dog training
+      link:
 
-      - item: Foreign languages
-        link:
+    - item: Foreign languages
+      link:
 
-      - item: Hispanic culture
-        link:
+    - item: Hispanic culture
+      link:
 
-      - item: Birding
-        link:
+    - item: Birding
+      link:
 
 career-profile:
-    title: About Jessica
-    summary: |
-        Jessica Baer is a nutrition graduate with a passion for counseling and health education.
+  title: About Jessica
+  summary: |
+      Jessica Baer is registered dietitian nutritionist (RDN) with experience in long term care, outpatient counseling, and clinical nutrition.
 
-        She recently completed her dietetic internship, and will become a registered dietitian pending her dietetic exam.
-        She graduated in 2017 from the honors program at Russell Sage College with a degree in nutrition, and special distinction for conducting academic research.
-        She has volunteered her time in the community at the Santa Barbara food bank and Troy YWCA, and taught herself Spanish to better serve the hispanic community.
-        She hopes to use her education to focus on nutrition counseling and long term care.
-
-        She currently lives in Santa Barbara, California with her husband and dog, who both love her very much.
+skills:
+  title: Skills/Certifications
+  details: |
+    - Registered Dietitian Nutritionist
+    - Conversationally fluent in Spanish
+    - Experienced in diabetes and weight loss counseling in both English and Spanish
+    - Proficient in the assessment and treatment of nutrition problems in gerontological patients
 
 education:
-    - degree: Dietetic Internship
-      university: Wellness Workdays
-      time: Jul 2019 - April 2020
-      details: |
-        - 1200 hours of practical experience
-        - Five rotations in various areas of dietetics practice
-        - Pending dietitian registration on completion of exam
-    - degree: B.S. in Nutrition Sciences
-      university: Russell Sage College — Troy, NY
-      time: Aug 2013 - May 2017
-      details: |
-        - Honors program graduate
-        - Presenter at the National Collegiate Honors Conference, Nov 2014
-        - Designed and conducted research in genetic taste preferences with Professor Eileen FitzPatrick
+  - degree: Dietetic Internship
+    university: Wellness Workdays
+    time: Jul 2019 - Apr 2020
+    details: |
+      - 1200 hours of practical experience
+      - Five rotations in various areas of dietetics practice
+      - Pending dietitian registration on completion of exam
+  - degree: B.S. in Nutrition Sciences
+    university: Russell Sage College — Troy, NY
+    time: Aug 2013 - May 2017
+    details: |
+      - Honors program graduate
+      - Presenter at the National Collegiate Honors Conference, Nov 2014
+      - Designed and conducted research in genetic taste preferences with Professor Eileen FitzPatrick
 
 experiences:
-    - role: Dietetic Intern
-      time: Jul 2019 - April 2020
-      company: Wellness Workdays Dietetic Internship
-      details: |
-        - Foodbank of Santa Barbara County
-          - Developed, promoted, and ran community health programs.
-        - University of California, Santa Barbara
-          - Promoted wellness of the Housing, Dining, and Auxiliary Enterprises employees, through the creation of health challenges, events, and written materials.
-        - Clinical — Lompoc Valley Medical Center (LVMC)
-          - Gained clinical nutrition experience educating patients and providing nutrition interventions in inpatient and outpatient settings.
-        - Food Service — LVMC
-          - Worked in a hospital food service environment. Created, organized, and led the production of a meal serving over two hundred people.
-        - Long Term Care — LVMC
-          - Gained experience in the long term care setting at the Comprehensive Care Center, assessing care plans to augment the recovery and status of residents and rehabilitation patients.
-    - role: Bank Teller
-      time: Jul 2018 - Jul 2019
-      company: Rabobank — Santa Barbara, CA
-      details: |
-        - Worked as a bilingual bank teller, helping clients with financial transactions
-        - Demonstrated critical thinking to detect fraud and discretion on sensitive financial matters
-        - Excelled in a team based and goal driven work environment
+  - role: Registered Dietitian Nutritionist
+    time: May 2020 - Present
+    company: Comprehensive Care Center — Lompoc, CA
+    details: |
+      - Assessed residents in a long term care (LTC) and skilled nursing setting for nutrition risk and applied medical nutrition therapies accordingly, such as intervention with oral supplements
+      - Collaborated with the dietary department to initiate new dysphagia standard IDDSI into practice
+      - Lead weekly meetings on a QAPI initiative for prevention of excessive weight loss
+      - Applied medical nutrition therapies to nutrition problems in the acute care setting
+      - Conducted inservices and audits for the dietary department to ensure food safety compliance
+  
+  - role: Dietetic Intern
+    time: Jul 2019 - Apr 2020
+    company: Wellness Workdays Dietetic Internship
+    details: |
+      - Foodbank of Santa Barbara County
+        - Developed, promoted, and ran community health programs.
+      - University of California, Santa Barbara
+        - Promoted wellness of the Housing, Dining, and Auxiliary Enterprises employees, through the creation of health challenges, events, and written materials.
+      - Clinical — Lompoc Valley Medical Center (LVMC)
+        - Gained clinical nutrition experience educating patients and providing nutrition interventions in inpatient and outpatient settings.
+      - Food Service — LVMC
+        - Worked in a hospital food service environment. Created, organized, and led the production of a meal serving over two hundred people.
+      - Long Term Care — LVMC
+        - Gained experience in the long term care setting at the Comprehensive Care Center, assessing care plans to augment the recovery and status of residents and rehabilitation patients.
+  
+  - role: Bank Teller
+    time: Jul 2018 - Jul 2019
+    company: Rabobank — Santa Barbara, CA
+    details: |
+      - Worked as a bilingual bank teller, helping clients with financial transactions
+      - Demonstrated critical thinking to detect fraud and discretion on sensitive financial matters
+      - Excelled in a team based and goal driven work environment
 
-    - role: Dietary Aide
-      time: Oct 2017 - March 2018
-      company: Fountain Valley Regional Hospital
-      details: |
-        - Worked with nutrition therapy diets including renal, diabetic, neutropenic, hepatic, and modified texture
-        - Gained experience in a clinical setting and interacting with medical staff
-        - Met the needs of patients from a variety of cultures and English language ability
+  - role: Dietary Aide
+    time: Oct 2017 - Mar 2018
+    company: Fountain Valley Regional Hospital
+    details: |
+      - Worked with nutrition therapy diets including renal, diabetic, neutropenic, hepatic, and modified texture
+      - Gained experience in a clinical setting and interacting with medical staff
+      - Met the needs of patients from a variety of cultures and English language ability
 
-    - role: Volunteer
-      time: Jun 2017 - Aug 2017
-      company: Food Bank of Santa Barbara County
-      details: |
-        - Transported and served meals for the Summer Feeding Program
-        - Upheld specific standards for a government licenced nutrition assistance program
-        - Organized nutrition activities for the children, including weekly Food Bank sponsored “blender-bike”
+  - role: Volunteer
+    time: Jun 2017 - Aug 2017
+    company: Food Bank of Santa Barbara County
+    details: |
+      - Transported and served meals for the Summer Feeding Program
+      - Upheld specific standards for a government licenced nutrition assistance program
+      - Organized nutrition activities for the children, including weekly Food Bank sponsored “blender-bike”
 
-    - role: Dietary Aide
-      time: Jan 2016 - May 2017
-      company: The Pines at Heartwood — Troy, NY
-      details: |
-        - Maintained dietary standards as prescribed by the dietitian for residents of an assisted living facility
-        - Accommodated residents with diabetes, low salt diets, Coumadin-modified diets, and reduced jaw strength
-        - Followed food safety standards in regards to proper temperatures and storage of food
+  - role: Dietary Aide
+    time: Jan 2016 - May 2017
+    company: The Pines at Heartwood — Troy, NY
+    details: |
+      - Maintained dietary standards as prescribed by the dietitian for residents of an assisted living facility
+      - Accommodated residents with diabetes, low salt diets, Coumadin-modified diets, and reduced jaw strength
+      - Followed food safety standards in regards to proper temperatures and storage of food
 
-    - role: Volunteer
-      time: Sep 2014 - Oct 2015
-      company: YWCA of the Greater Capital Region — Troy, NY
-      details: |
-        - Helped coordinate, prepare, and serve community meals with the Troy food bank
-        - Made nutritional fliers on subjects such as low budget healthy recipes and popular nutrition topics
-        - Lead nutrition based discussions with community residents
+  - role: Volunteer
+    time: Sep 2014 - Oct 2015
+    company: YWCA of the Greater Capital Region — Troy, NY
+    details: |
+      - Helped coordinate, prepare, and serve community meals with the Troy food bank
+      - Made nutritional fliers on subjects such as low budget healthy recipes and popular nutrition topics
+      - Lead nutrition based discussions with community residents
 
-    - role: Head Chef Volunteer
-      time: Jan 2014 - Apr 2015
-      company: RPI-Sage Hillel — Troy, NY
-      details: |
-        - Directed student cooks in preparation of meals for weekly Shabbat dinners
-        - Gained experience cooking for restrictive diets including kosher, vegetarian, and gluten free
+  - role: Head Chef Volunteer
+    time: Jan 2014 - Apr 2015
+    company: RPI-Sage Hillel — Troy, NY
+    details: |
+      - Directed student cooks in preparation of meals for weekly Shabbat dinners
+      - Gained experience cooking for restrictive diets including kosher, vegetarian, and gluten free
 
 projects:
-    title: Projects
-    assignments:
-      - title: Academic research on genetic taste preference
-        tagline: |
-          Completed a research project in 2017 to examine a hypothesized relationship between bitter taste perception and preference to vegetables.
-          The research was advised by the head of Russell Sage College's Nutrition Department, Eileen FitzPatrick, and approved by the university's Institutional Review Board.
-          The results were presented at the university's annual Undergraduate Research Symposium.
+  title: Projects
+  assignments:
+    - title: Academic research on genetic taste preference
+      tagline: |
+        Completed a research project in 2017 to examine a hypothesized relationship between bitter taste perception and preference to vegetables.
+        The research was advised by the head of Russell Sage College's Nutrition Department, Eileen FitzPatrick, and approved by the university's Institutional Review Board.
+        The results were presented at the university's annual Undergraduate Research Symposium.
 
 footer: >
-    Built with <i class="fas fa-heart"></i> by her husband, <a href="https://github.com/njbbaer" target="_blank">Nate Baer</a><br>Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Built with <i class="fas fa-heart"></i> by her husband, <a href="https://github.com/njbbaer" target="_blank">Nate Baer</a><br>Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
